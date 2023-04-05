@@ -13,3 +13,4 @@ output "instance-type" {
 output "dns" {
   value = aws_instance.demo1.public_dns
 }
+  
